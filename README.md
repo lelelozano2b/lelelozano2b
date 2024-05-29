@@ -1,16 +1,15 @@
-## Hi there 👋
+### BOAS VINDAS AO MEU PERFIL 👋
 
-<!--
-**lelelozano2b/lelelozano2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É LETÍCIA LOZANO DE VILLA;
 
-Here are some ideas to get you started:
+-Sou estudante do [Alura](https://www.alura.com.br)
+-Atualmente tenho 16 anos, e estou cursando o segundo ano do ensino médio;
+-ESPERO aprender e evoluir com essa plataforma;
+-Primeiro contato dia 29 de Maio de 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](![image](https://github.com/lelelozano2b/lelelozano2b/assets/171162693/d45bf21c-2992-4865-973d-7360653f7d81)
+
+
+
